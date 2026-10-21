@@ -1,0 +1,8 @@
+torch>=2.4
+transformers>=4.56,<5
+safetensors>=0.4
+accelerate>=0.33
+gradio>=5.0
+spaces
+huggingface_hub>=0.24
+ntkmirror @ git+https://github.com/leochlon/ntkmirror.git
